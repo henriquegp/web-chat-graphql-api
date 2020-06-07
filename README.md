@@ -13,11 +13,6 @@ First you need to have `Node` and `MongoDB` installed on your machine. Then, fol
 
 3. Run `npm run dev` to start the project.
 
-4. Create folders to save the project images
-```bash
-  mkdir temp
-```
-
 ## Features
 - TypeScript
 - Express
